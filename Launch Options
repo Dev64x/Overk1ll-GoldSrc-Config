@@ -2,4 +2,4 @@ Right-click GoldSrc game in your Steam library and click Properties…. In the w
 
 -nojoy - stops Joystick system from starting up, faster startup and less memory usage.
 
--noipx - stops ipx, ancient and obsolete network protocol from starting up, possibly faster startup and less memory usage.
+-noipx - stops ipx, ancient network protocol from starting up, possibly faster startup and less memory usage.
