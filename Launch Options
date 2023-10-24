@@ -1,6 +1,4 @@
-Right-click GoldSrc game in your Steam library and click Properties…. In the window that appears, under Launch Options, remove anything that’s in there and paste: -dev -nojoy -noipx
-
--dev - enables developer mode without which some cvars don't work.
+Right-click GoldSrc game in your Steam library and click Properties…. In the window that appears, under Launch Options, remove anything that’s in there and paste: -nojoy -noipx
 
 -nojoy - stops Joystick system from starting up, faster startup and less memory usage.
 
