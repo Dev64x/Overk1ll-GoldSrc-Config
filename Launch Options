@@ -1,4 +1,4 @@
-Right-click GoldSrc game in your Steam library and click Properties…. In the window that appears, under Launch Options, remove anything that’s in there and paste: -novid -nojoy -noipx
+Right-click GoldSrc game in your Steam library and click Properties…. In the window that appears, in "Launch Options", remove anything that’s in there and paste: -novid -nojoy -noipx
 
 -novid - stops intro video with valve guy from playing, faster startup.
 
